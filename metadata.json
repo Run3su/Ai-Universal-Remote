@@ -1,0 +1,8 @@
+{
+  "name": "OmniControl - AI Universal Remote",
+  "description": "A universal TV remote control using Web Bluetooth, Wi-Fi, and Google Gemini for smart voice commands.",
+  "requestFramePermissions": [
+    "microphone",
+    "bluetooth"
+  ]
+}
